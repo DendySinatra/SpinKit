@@ -20,7 +20,7 @@ dependencies {
 - Xml
 
  ```xml
-<android.spinkit.SpinKitView
+<com.github.DendySinatra.android.spinkit.SpinKitView
      xmlns:app="http://schemas.android.com/apk/res-auto"
      android:id="@+id/spin_kit"
      style="@style/SpinKitView.Large.Circle"
