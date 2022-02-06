@@ -18,6 +18,7 @@ dependencies {
 
 ## Usage
 - Xml
+
 > 
  ```xml
 <com.github.DendySinatra.android.spinkit.SpinKitView
