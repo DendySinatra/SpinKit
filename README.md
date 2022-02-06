@@ -1,4 +1,5 @@
 # SpinKit
+## SpinKit
 >Android loading animations(I wrote a android edition according [SpinKit](https://tobiasahlin.com/spinkit))
 
 ## Preview
@@ -9,11 +10,11 @@
 
 ## Gradle Dependency
 
- ``` gradle
+```gradle
 dependencies {
     implementation 'com.github.DendySinatra:SpinKit:1.4.0'
  }
- ```
+```
 
 
 ## Usage
