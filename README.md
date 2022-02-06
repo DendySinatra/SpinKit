@@ -19,7 +19,6 @@ dependencies {
 ## Usage
 - Xml
 
-> 
  ```xml
 <com.github.DendySinatra.android.spinkit.SpinKitView
      xmlns:app="http://schemas.android.com/apk/res-auto"
