@@ -2,9 +2,9 @@
 >Android loading animations(I wrote a android edition according [SpinKit](https://tobiasahlin.com/spinkit))
 
 ## Preview
-
+>
 <img src="https://raw.githubusercontent.com/DendySinatra/SpinKit/master/art/screen.gif" width="240px" height="240px"/>
-
+>
 <img src="https://raw.githubusercontent.com/DendySinatra/SpinKit/master/art/screen2.gif" width="200px" height="200px"/>
 
 ## Gradle Dependency
