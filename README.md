@@ -31,7 +31,7 @@ dependencies {
 ```
  
 - ProgressBar
-> 
+
  ```java
 ProgressBar progressBar = (ProgressBar)findViewById(R.id.progress);
 Sprite doubleBounce = new DoubleBounce();
