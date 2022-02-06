@@ -1,13 +1,13 @@
 # SpinKit
 >Android loading animations(I wrote a android edition according [SpinKit](https://tobiasahlin.com/spinkit))
 
-## -Preview
+## Preview
 
 <img src="https://raw.githubusercontent.com/DendySinatra/SpinKit/master/art/screen.gif" width="240px" height="240px"/>
 
 <img src="https://raw.githubusercontent.com/DendySinatra/SpinKit/master/art/screen2.gif" width="200px" height="200px"/>
 
-## -Gradle Dependency
+## Gradle Dependency
 > 
  ```gradle
 dependencies {
@@ -16,7 +16,7 @@ dependencies {
 ```
 
 
-## -Usage
+## Usage
 - Xml
 > 
  ```xml
@@ -38,7 +38,7 @@ Sprite doubleBounce = new DoubleBounce();
 progressBar.setIndeterminateDrawable(doubleBounce);
 ```
 
-## -Style
+## Style
 > 
  ```xml
 @style/SpinKitView
